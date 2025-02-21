@@ -41,7 +41,7 @@
   <a href="https://www.instagram.com/bhavesh_ye?igsh=dXE3bHM3NDBjaWIw" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="bhaveshyatwork@gmail.com" target="_blank">
+  <a href="mailto:bhaveshyatwork@gmail.com?body=Hi%20Bhavesh%20" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://in.linkedin.com/in/bhavesh-yelekar-907722251" target="_blank">
