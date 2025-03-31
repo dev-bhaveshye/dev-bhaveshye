@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi! I'm Bhavesh, a Machine Learning and AI enthusiast, currently exploring Java and Spring Boot.</h2>
+<h2 align="left">👋Hi! I'm Bhavesh, a Machine Learning and AI enthusiast, currently exploring Java and Spring Boot</h2>
 
 ###
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dev-bhaveshye.dev-bhaveshye&left_color=red&right_color=green&left_text=Hello%20Visitors)
