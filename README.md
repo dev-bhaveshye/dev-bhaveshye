@@ -14,6 +14,20 @@
 - 🌱 Currently learning System Design & Advanced Java Concepts
 - 🧠 Obsessed with building cool and useful projects
 
+   ## 📈 GitHub Stats
+   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dev-bhaveshye.dev-bhaveshye&left_color=red&right_color=green&left_text=Hello%20Visitors)
+</p>
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-bhaveshye&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-bhaveshye&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-bhaveshye&layout=compact&theme=radical" width="58%" />
+</p>
+
 <br clear="right"/>
 
 ## 🛠️ Tech Stack
@@ -46,7 +60,8 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=VS+CODE;007ACC&center=true&width=120&height=30&size=18&duration=1300&pause=2000&color=007ACC&background=00000000"></a>
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=GIT;F05032&center=true&width=80&height=30&size=18&duration=1300&pause=2000&color=F05032&background=00000000"></a>
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=DOCKER;2496ED&center=true&width=110&height=30&size=18&duration=1300&pause=2000&color=2496ED&background=00000000"></a>
-  
+
+
 ## 💻 Daily Dev Life
 
 ```java
