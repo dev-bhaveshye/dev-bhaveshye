@@ -1,70 +1,111 @@
-<h2 align="left">👋Hi! I'm Bhavesh, a Machine Learning and AI enthusiast, currently exploring Java and Spring Boot</h2>
+<h1 align="center">Hey there, I'm Bhavesh 👋</h1>
 
-###
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dev-bhaveshye.dev-bhaveshye&left_color=red&right_color=green&left_text=Hello%20Visitors)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-bhaveshye&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-bhaveshye&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Spring+Boot+Enthusiast;AI+%26+ML+Explorer&center=true&width=380&height=45" alt="Typing SVG" />
+</p>
 
-###
+## 🌟 About Me
 
 <img align="right" height="170" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHYzem90ZzQzeXYzZ2N0MnE0OTg1ZWhjZTEybTljcnNzejJ6a2Q3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
-###
+- 🎯 Java backend developer with a passion for Spring Boot microservices
+- 🤖 Applying machine learning to create intelligent systems that solve real problems
+- 💻 Constantly sharpening my algorithmic thinking and problem-solving skills
+- 🌱 Currently learning System Design & Advanced Java Concepts
+- 🧠 Obsessed with building cool and useful projects
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="30" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
-  <img width="12" />
-</div>
+<br clear="right"/>
 
-###
+## 🛠️ Tech Stack
+<div align="center">
+  
+  <!-- Row 1: Core Languages -->
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=JAVA;F89820&center=true&width=100&height=30&size=18&duration=1300&pause=2000&color=F89820&background=00000000"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=PYTHON;3776AB&center=true&width=110&height=30&size=18&duration=1300&pause=2000&color=3776AB&background=00000000"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=HTML5;E34F26&center=true&width=100&height=30&size=18&duration=1300&pause=2000&color=E34F26&background=00000000"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=CSS3;1572B6&center=true&width=90&height=30&size=18&duration=1300&pause=2000&color=1572B6&background=00000000"></a>
+  
+  <br>
+  
+  <!-- Row 2: Frameworks & Databases -->
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=SPRING+BOOT;6DB33F&center=true&width=150&height=30&size=18&duration=1300&pause=2000&color=6DB33F&background=00000000"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=HIBERNATE;59666C&center=true&width=130&height=30&size=18&duration=1300&pause=2000&color=59666C&background=00000000"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=MYSQL;4479A1&center=true&width=110&height=30&size=18&duration=1300&pause=2000&color=4479A1&background=00000000"></a>
+  
+  <br>
+  
+  <!-- Row 3: AI/ML Tools -->
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=NUMPY;FF6F00&center=true&width=100&height=30&size=18&duration=1300&pause=2000&color=FF6F00&background=00000000"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=PANDAS;6DB33F&center=true&width=110&height=30&size=18&duration=1300&pause=2000&color=6DB33F&background=00000000"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=PYTORCH;EE4C2C&center=true&width=110&height=30&size=18&duration=1300&pause=2000&color=EE4C2C&background=00000000"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=TENSORFLOW;FF6F00&center=true&width=140&height=30&size=18&duration=1300&pause=2000&color=FF6F00&background=00000000"></a>
+  
+  <br>
+  
+  <!-- Row 4: Tools -->
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=VS+CODE;007ACC&center=true&width=120&height=30&size=18&duration=1300&pause=2000&color=007ACC&background=00000000"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=GIT;F05032&center=true&width=80&height=30&size=18&duration=1300&pause=2000&color=F05032&background=00000000"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=DOCKER;2496ED&center=true&width=110&height=30&size=18&duration=1300&pause=2000&color=2496ED&background=00000000"></a>
+  
+## 💻 Daily Dev Life
 
-<div align="left">
-  <a href="https://www.instagram.com/bhavesh_ye?igsh=dXE3bHM3NDBjaWIw" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+```java
+// Life of a Dev in Java
+while(alive) {
+    learn()
+    build()
+    coffee()
+}
+```
+
+<details>
+  <summary>☕ Java Dev Life</summary>
+  
+```java
+public class DeveloperLife {
+    public static void main(String[] args) {
+        while(true) {
+            learn();     // 📚 Keep learning
+            build();     // 🛠️ Keep building
+            coffee();    // ☕ Stay caffeinated
+        }
+    }
+    
+    static void learn() {
+        System.out.println("Learning Spring Boot and AI 🤖");
+    }
+    
+    static void build() {
+        System.out.println("Pushing code to GitHub 🚀");
+    }
+    
+    static void coffee() {
+        System.out.println("Sipping coffee like a true dev ☕");
+    }
+}
+```
+</details>
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/dev-bhaveshye">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:bhaveshyatwork@gmail.com?body=Hi%20Bhavesh%20" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/bhavesh-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://in.linkedin.com/in/bhavesh-yelekar-907722251" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="mailto:dev.bhavesh@example.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://t.me/Bhaveshye" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  <a href="https://t.me/Bhaveshye">
+    <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-</div>
+  <a href="https://www.instagram.com/bhavesh_ye">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
-###
-
-<br clear="both">
-
-
-
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Happy+coding!+✨&center=true&width=380&height=45" />
+</p>
