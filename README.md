@@ -14,7 +14,7 @@
 - 🌱 Currently learning System Design & Advanced Java Concepts
 - 🧠 Obsessed with building cool and useful projects
 
-   ## 📈 GitHub Stats
+## 📈 GitHub Stats
    ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dev-bhaveshye.dev-bhaveshye&left_color=red&right_color=green&left_text=Hello%20Visitors)
 </p>
 
@@ -61,6 +61,7 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=GIT;F05032&center=true&width=80&height=30&size=18&duration=1300&pause=2000&color=F05032&background=00000000"></a>
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=DOCKER;2496ED&center=true&width=110&height=30&size=18&duration=1300&pause=2000&color=2496ED&background=00000000"></a>
 
+ <br>
 
 ## 💻 Daily Dev Life
 
