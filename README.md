@@ -15,7 +15,7 @@
 - 🧠 Obsessed with building cool and useful projects
 
 ## 📈 GitHub Stats
-   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dev-bhaveshye.dev-bhaveshye&left_color=red&right_color=green&left_text=Hello%20Visitors)
+![Visitors](https://img.shields.io/badge/Visitors-1659-brightgreen)
 </p>
 
 <p align="center">
