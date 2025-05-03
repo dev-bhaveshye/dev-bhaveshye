@@ -21,7 +21,9 @@
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=dev-bhaveshye&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-bhaveshye&theme=radical" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=dev-bhaveshye&theme=radical&cache_seconds=86400" width="48%" />
+
+
 </p>
 
 <p align="center">
