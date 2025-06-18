@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Spring+Boot+Enthusiast;AI+%26+ML+Explorer&center=true&width=380&height=45" alt="Typing SVG" />
 </p> 
-
+ 
 ## 🌟 About Me
 
 <img align="right" height="170" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHYzem90ZzQzeXYzZ2N0MnE0OTg1ZWhjZTEybTljcnNzejJ6a2Q3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
