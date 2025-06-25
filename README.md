@@ -129,3 +129,8 @@ public class DeveloperLife {
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Happy+coding!+✨&center=true&width=380&height=45" />
 </p>
+<p align="center">
+  <a href="https://www.animatedimages.org/cat-lines-562.htm">
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0407.gif" width="800" alt="animated-line-image-0407" />
+  </a>
+</p>
