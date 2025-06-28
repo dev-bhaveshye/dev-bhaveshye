@@ -1,5 +1,6 @@
 <h1 align="center">Hey there, I'm Bhavesh 👋</h1> 
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Spring+Boot+Enthusiast;AI+%26+ML+Explorer&center=true&width=380&height=45" alt="Typing SVG" />
 </p> 
