@@ -18,7 +18,7 @@
 - 🧠 Obsessed with building cool and useful projects
 
 ## 📈 GitHub Stats
-![Visitors](https://img.shields.io/badge/Visitors-2048-brightgreen)
+![Visitors](https://img.shields.io/badge/Visitors-2168-brightgreen)
 </p>
 
 <p align="center">
