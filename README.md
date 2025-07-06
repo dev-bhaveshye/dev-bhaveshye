@@ -15,6 +15,7 @@
 - 🧠 Obsessed with building cool and useful projects
   
 
+
 ## 📈 GitHub Stats
 ![Visitors](https://img.shields.io/badge/Visitors-2168-brightgreen)
 </p>
@@ -29,11 +30,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-bhaveshye&layout=compact&theme=radical" width="48%" />
-  <img align="right" width="270" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJ6Y2J3dmt3NTJuY2E1YTdnbGhudmZweXl6a2NkODMzZ3VjNzNnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"  />
+  <img align="right" width="240" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJ6Y2J3dmt3NTJuY2E1YTdnbGhudmZweXl6a2NkODMzZ3VjNzNnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"  />
   
 </p>
 
 <br clear="right"/>
+
+
 
 ## 🛠️ Tech Stack
 <div align="center">
