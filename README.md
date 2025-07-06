@@ -6,13 +6,14 @@
  
 ## 🌟 About Me
 
-<img align="right" width="190" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHYzem90ZzQzeXYzZ2N0MnE0OTg1ZWhjZTEybTljcnNzejJ6a2Q3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+<img align="right" width="170" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHYzem90ZzQzeXYzZ2N0MnE0OTg1ZWhjZTEybTljcnNzejJ6a2Q3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 - 🎯 Java backend developer with a passion for Spring Boot microservices
 - 🤖 Applying machine learning to create intelligent systems that solve real problems
 - 💻 Constantly sharpening my algorithmic thinking and problem-solving skills
 - 🌱 Currently learning System Design & Advanced Java Concepts
 - 🧠 Obsessed with building cool and useful projects
+  
 
 ## 📈 GitHub Stats
 ![Visitors](https://img.shields.io/badge/Visitors-2168-brightgreen)
