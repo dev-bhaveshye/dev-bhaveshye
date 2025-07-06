@@ -53,11 +53,14 @@ public class Bhavesh {
 
 <div align="center">
   
-  🔭 Currently Working On: Integrating OpenAI API with Spring Boot for intelligent speech-to-text conversion
-  🌱 **Learning:** Advanced System Design, Kafka, Redis  
-  💬 **Ask me about:** Java, Spring Boot, AI/ML, Backend Architecture  
-  ⚡ **Fun fact:** I debug with `System.out.println()` and I'm proud of it! 😄  
+🔭 Currently Working On:   Integrating OpenAI API with Spring Boot for intelligent speech-to-text conversion
   
+🌱 Learning:   Advanced System Design, Kafka, Redis
+
+💬 Ask me about:   Java, Spring Boot, AI/ML, Backend Architecture
+
+⚡ Fun fact:   I debug with System.out.println() and I'm proud of it! 😄
+
 </div>
 
 ---
@@ -115,13 +118,11 @@ public class Bhavesh {
 
 ---
 
-## 🏆 **Featured Projects**
+## 🔨 Currently Working On**
 
 <div align="center">
   
-  <!-- Replace with your actual repository names -->
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-bhaveshye&repo=your-repo-name&theme=tokyonight&hide_border=true)](https://github.com/dev-bhaveshye/your-repo-name)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-bhaveshye&repo=another-repo&theme=tokyonight&hide_border=true)](https://github.com/dev-bhaveshye/another-repo)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-bhaveshye&repo=JOURNAL-PROJECT&theme=tokyonight&hide_border=true)](https://github.com/dev-bhaveshye/JOURNAL-PROJECT)
   
 </div>
 
@@ -163,17 +164,6 @@ graph LR
 - [ ] 🌟 Contribute to **5 open-source projects**
 - [ ] 💼 Land a **Java Developer / SDE** role
 
-</div>
-
----
-
-## 💻 **Coding Activity**
-
-<div align="center">
-  
-  <!-- This section will work once you set up WakaTime -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dev-bhaveshye&theme=tokyonight&hide_border=true" alt="Coding Activity" />
-  
 </div>
 
 ---
