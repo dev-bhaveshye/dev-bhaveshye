@@ -6,7 +6,7 @@
  
 ## 🌟 About Me
 
-<img align="right" height="170" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHYzem90ZzQzeXYzZ2N0MnE0OTg1ZWhjZTEybTljcnNzejJ6a2Q3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+<img align="right" width="190" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHYzem90ZzQzeXYzZ2N0MnE0OTg1ZWhjZTEybTljcnNzejJ6a2Q3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 - 🎯 Java backend developer with a passion for Spring Boot microservices
 - 🤖 Applying machine learning to create intelligent systems that solve real problems
@@ -21,14 +21,14 @@
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=dev-bhaveshye&show_icons=true&theme=radical" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=dev-bhaveshye&theme=radical&cache_seconds=86400" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=dev-bhaveshye&theme=radical&cache_seconds=86400" width="51%" />
 
 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-bhaveshye&layout=compact&theme=radical" width="58%" />
-  <img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJ6Y2J3dmt3NTJuY2E1YTdnbGhudmZweXl6a2NkODMzZ3VjNzNnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-bhaveshye&layout=compact&theme=radical" width="48%" />
+  <img align="right" width="270" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJ6Y2J3dmt3NTJuY2E1YTdnbGhudmZweXl6a2NkODMzZ3VjNzNnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"  />
   
 </p>
 
