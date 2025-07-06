@@ -224,7 +224,7 @@ public class CoffeeDrivenDevelopment {
 
 <div align="center">
   
-  <a href="https://linkedin.com/in/bhavesh-dev">
+  <a href="https://www.linkedin.com/in/bhavesh-yelekar-907722251/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:dev.bhavesh@example.com">
