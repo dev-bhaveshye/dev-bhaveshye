@@ -18,8 +18,6 @@
 
 ## 🎯 **About Me**
 
-<img align="right" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHYzem90ZzQzeXYzZ2N0MnE0OTg1ZWhjZTEybTljcnNzejJ6a2Q3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding GIF" />
-
 ```java
 public class Bhavesh {
     private String role = "Java Backend Developer";
@@ -37,6 +35,8 @@ public class Bhavesh {
     }
 }
 ```
+
+<img align="right" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHYzem90ZzQzeXYzZ2N0MnE0OTg1ZWhjZTEybTljcnNzejJ6a2Q3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding GIF" />
 
 🔥 **What I'm passionate about:**
 - 🏗️ Architecting robust backend systems with **Spring Boot** 
