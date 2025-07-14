@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  ![Visitors](https://img.shields.io/badge/Visitors-2168-brightgreen)
+  ![Visitors](https://img.shields.io/badge/Visitors-2188-brightgreen)
   [![GitHub followers](https://img.shields.io/github/followers/dev-bhaveshye?label=Followers&style=flat-square&color=blue)](https://github.com/dev-bhaveshye)
   [![GitHub stars](https://img.shields.io/github/stars/dev-bhaveshye?label=Stars&style=flat-square&color=yellow)](https://github.com/dev-bhaveshye)
   
