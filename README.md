@@ -53,7 +53,7 @@ public class Bhavesh {
 
 <div align="center">
   
-🔭 Currently Working On:   Integrating OpenAI API with Spring Boot for intelligent speech-to-text conversion
+🔭 Currently Working On: A live e-commerce platform project during my internship, focusing on backend development using Java and Spring Boot.
   
 🌱 Learning:   Advanced System Design, Kafka, Redis
 
