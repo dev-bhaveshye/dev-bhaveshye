@@ -76,7 +76,10 @@ public class Bhavesh {
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-bhaveshye&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" alt="Top Languages" />
+   <!-- Top Languages -->
+  <img src="https://github-readme-stats-umber-rho-33.vercel.app/api/top-langs/?username=dev-bhaveshye&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" alt="Top Languages" />
+
+  <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-bhaveshye&theme=tokyo-night&hide_border=true&area=true" width="52%" alt="Contribution Graph" />
   
 </div>
