@@ -69,7 +69,7 @@ public class Bhavesh {
 
 <div align="center">
   
-   <img src="https://github-readme-stats-eight-chi-74.vercel.app/api?username=dev-bhaveshye&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=dev-bhaveshye&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   <img src="https://streak-stats.demolab.com?user=dev-bhaveshye&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak" />
   
 </div>
@@ -77,10 +77,10 @@ public class Bhavesh {
 <div align="center">
   
    <!-- Top Languages -->
- <img src="https://github-readme-stats-eight-chi-74.vercel.app/api/top-langs/?username=dev-bhaveshye&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" alt="Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-bhaveshye&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 
   <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-bhaveshye&theme=tokyo-night&hide_border=true&area=true" width="52%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-bhaveshye&theme=tokyo-night&hide_border=true&area=true" width="45%" alt="Contribution Graph" />
   
 </div>
 
