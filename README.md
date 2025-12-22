@@ -70,7 +70,7 @@ public class Bhavesh {
 <div align="center">
   
    <img src="https://github-readme-stats.vercel.app/api?username=dev-bhaveshye&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://streak-stats.demolab.com?user=dev-bhaveshye&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=dev-bhaveshye&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="42%" alt="GitHub Streak" />
   
 </div>
 
