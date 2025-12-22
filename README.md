@@ -80,7 +80,7 @@ public class Bhavesh {
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-bhaveshye&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 
   <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-bhaveshye&theme=tokyo-night&hide_border=true&area=true" width="45%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-bhaveshye&theme=tokyo-night&hide_border=true&area=true" width="52%" alt="Contribution Graph" />
   
 </div>
 
