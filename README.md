@@ -70,7 +70,7 @@ public class Bhavesh {
 <div align="center">
   
    <img src="https://github-readme-stats.vercel.app/api?username=dev-bhaveshye&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="42%" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-bhaveshye&theme=tokyonight&hide_border=true&v=2"/>
+   <img src="[https://github-readme-streak-stats.herokuapp.com/?user=dev-bhaveshye&theme=tokyonight&hide_border=true&v=2](https://github-readme-streak-stats.herokuapp.com/?user=dev-bhaveshye&theme=tokyonight&hide_border=true)"/>
 
   
 </div>
