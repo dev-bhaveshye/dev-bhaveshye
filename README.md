@@ -162,11 +162,13 @@ graph LR
 
 <div align="center">
   
-- [ ] ☕ Master Spring Boot fundamentals and advanced concepts
+- ✅  ☕ Master Spring Boot fundamentals and advanced concepts
 - [ ] 🚀 Learn Microservices Architecture patterns
-- [ ] 🤖 Build **3 AI-powered applications**
+- ✅ 🤖 Build **3 AI-powered applications**
 - [ ] 🌟 Contribute to **5 open-source projects**
-- [ ] 💼 Land a **Java Developer / SDE** role
+- ✅ 💼 Land a **Java Developer / SDE** role
+
+  <h3><span style="color: #2ea043;">✅2025 Major Goals Achieved</span></h3>
 
 </div>
 
